@@ -1,1 +1,1 @@
-import "C:\cypress-npm-master\node_modules\cypress-file-upload";
+import "cypress-file-upload";
